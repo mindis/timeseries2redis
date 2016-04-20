@@ -1,9 +1,7 @@
-import redis
-import pandas as pd
 import datetime
 import time
-import random
-
+import redis
+import pandas as pd
 
 
 class Timeseries(object):
